@@ -1,0 +1,8 @@
+SQLAlchemy
+graphene-sqlalchemy
+flask
+Flask-SQLAlchemy
+Flask-Cors
+psycopg2-binary
+Faker
+flask_sqlalchemy

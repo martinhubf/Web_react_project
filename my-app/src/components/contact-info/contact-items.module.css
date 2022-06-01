@@ -1,11 +1,11 @@
 .container {
     display: flex;
-    background-color: #DCDCDC;
+    background-color: lightblue;
     padding: 5px;
     border: 1px solid #808080;
-    width: 35%;
+    width: 70%;
     flex-direction: column;
-    height: 600px;
+    height: 500px;
     border-radius: 15px;
 }
 
@@ -49,14 +49,14 @@ img {
 
 button{
     border: #faf9f9;
-    background-color: #C0C0C0;
+    background-color: #5d7ca6;
     font-size: 20px;
     border-radius: 20px;
 }
 
 button:hover{
     border: #faf9f9;
-    background-color: #A9A9A9;
+    background-color: #f6f6f6;
     font-size: 20px;
     border-radius: 20px;
 }
@@ -67,5 +67,5 @@ button:hover{
     padding:15px;
     font-size: 20px;
     border-radius: 6px;
-    background-color: #A9A9A9;
+    background-color: #4087b9;
 }
